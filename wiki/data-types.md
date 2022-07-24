@@ -8,7 +8,6 @@ let's begin with the basic one, **String**
 # Strings
 strings are a data type of variable that contains alpha numeric text, let's see how we can declare a string:
 ```py
-#file1.py
 my_name = "NacreousDawn596" #this is a string
 my_name = 'NacreousDawn596' #this is a string too
 my_name = """my name is:
@@ -18,13 +17,11 @@ my name = '''my name is:
 ```
 in python, you have the ability to make the whole string with uppercases or lowercases, let's see an example:
 ```py
-#file2.py
 my_name = "NacreousDawn596".upper() #this is an uppercased string
 my_name = "NacreousDawn596".lower() #this is an lowercased string
 ```
 and we can also capitalize the string like so:
 ```py
-#file3.py
 my_name = "NacreousDawn596".lower().capitalize() #this string was lowercased then capitalized
 ```
 I know you were thinking about how can we concatenate two strings (ofc you weren't think of this, lmao), to do so, you have to:
