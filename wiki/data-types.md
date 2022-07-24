@@ -145,7 +145,7 @@ well, that's all what a beginner in python should know.
 # Dicts
 dicts are literally just json in python (with some changes)
 **the changes:**
-in python, you can do `{"name": "nac"}` while in json you can't, you need to write it like so: `{'name': 'nac'}`... wait, I forgot to tell you about booleons, let's see them quickly to continue,
+in python, you can do `{'name' : 'nac'}` while in json you can't, you need to write it like so: `{"name" : "nac"}`... wait, I forgot to tell you about booleons, let's see them quickly to continue,
 
 **booleons:** they are simply just True or False, let's see an example:
 ```py
@@ -159,7 +159,7 @@ a < b | a <= b | return True if a is strictly smaller to b
 a > b | a <= b | return True if a is strictly bigger to b
 ```
 that's it, let's continue explaining dicts, as we were saying, let's see more changes:
-in python you can do `{"am I a psycho?": True}` whi le in json you have to do `{'am I a psycho?': true}`...
+in python you can do `{"am I a psycho?": True}` while in json you have to do `{"am I a psycho?": true}`...
 now let's see how to use dicts:
 ```py
 dictionnary = {"me": "psycho"}
