@@ -192,6 +192,7 @@ I already use it before, but I will write it again
 to convert anything into a string you can use the method str(my_variable)
 to convert a float or a string that contains only numbers into integer, use the method int(my_variable)
 to convert an integer or a string that contains only numbers into float, use the method float(my_variable)
+to convert a list into integer with a connection: " ".join(my_list)
 ```
 
 well, <a href="https://github.com/NacreousDawn596/Python3-tutorial">now go to the main page</a> and learn something new ^^
