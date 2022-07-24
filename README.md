@@ -14,5 +14,9 @@
     <li><a href="https://github.com/NacreousDawn596/Python3-tutorial/blob/main/wiki/data-types.md#dicts">Dicts</a></li>
     <li><a href="https://github.com/NacreousDawn596/Python3-tutorial/blob/main/wiki/data-types.md#lets-see-how-to-convert-them">How to convert them</a></li>
   </ul>
-  <!--<li><a href="https://github.com/NacreousDawn596/Python3-tutorial/blob/main/wiki/print.md">how to write text in the console with print()</a></li>-->
+  <li><a href="https://github.com/NacreousDawn596/Python3-tutorial/blob/main/wiki/built-in%20python%20functions.md#welcome-again-to-the-python-tutorial-we-gonna-see-what-are-the-available-built-in-functions-in-python">how to write text in the console with print() and how to get user's input with input()</a></li>
+  <ul>
+    <li><a href="https://github.com/NacreousDawn596/Python3-tutorial/blob/main/wiki/built-in%20python%20functions.md#print">print()</a></li>
+    <li><a href="https://github.com/NacreousDawn596/Python3-tutorial/blob/main/wiki/built-in%20python%20functions.md#input">input()</a></li>
+  </ul>
 </ul>
