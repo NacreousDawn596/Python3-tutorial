@@ -79,7 +79,7 @@ as you see, you don't have to define the variable type everytime... and that's t
  
 now we saw the basic variable that most of us should know, let's increase the difficulty a bit and see what lists are,
 
-#Lists
+# Lists
 quick explaination: lists are like containers that contains datas that we can use later, and each data in it has a place that's called an index, it always starts with 0.
  
 now when say a quick demonstartion, let's how to use it:
@@ -142,7 +142,7 @@ numbers = list(numbers) #now we are talking :)
 well, that's all what a beginner in python should know.
  now we understood the lists, wanna try to understand dicts too?
  
-#Dicts
+# Dicts
 dicts are literally just json in python (with some changes)
 **the changes:**
 in python, you can do `{"name": "nac"}` while in json you can't, you need to write it like so: `{'name': 'nac'}`... wait, I forgot to tell you about booleons, let's see them quickly to continue,
