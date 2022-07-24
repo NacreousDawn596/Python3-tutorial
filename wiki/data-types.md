@@ -174,7 +174,7 @@ dictionnary = {"me": {"age": 16, "name": "nac", "height": 172.3, "hobbies": [{"c
 my_infos = dictionnary["me"]
 my_age = my_infos["age"]
 my_hobby = my_infos["hobbies"]
-fr = my_hobby["coding"]
+fr = my_hobby[0]["coding"]
 ```
 let's see now how can we convert a dict into a list
 ```py
