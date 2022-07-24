@@ -81,6 +81,7 @@ x = 172.3 #this is a float
 as you see, you don't have to define the variable type everytime... and that's time-saving, or life-saving!
  
 now we saw the basic variable that most of us should know, let's increase the difficulty a bit and see what lists are,
+
 #Lists
 quick explaination: lists are like containers that contains datas that we can use later, and each data in it has a place that's called an index, it always starts with 0.
  
@@ -143,6 +144,7 @@ numbers = list(numbers) #now we are talking :)
 ```
 well, that's all what a beginner in python should know.
  now we understood the lists, wanna try to understand dicts too?
+ 
 #Dicts
 dicts are literally just json in python (with some changes)
 **the changes:**
@@ -186,6 +188,7 @@ temperatures_list = zip(list(temperatures.keys()), list(temperatures.value()))
 #we use values() method to get the list of values like 45, 10...
 ```
 guess what, that's it, you've just learned all the basics of variables
+
 # let's see how to convert them:
 I already use it before, but I will write it again
 ```py
