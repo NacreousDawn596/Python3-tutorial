@@ -155,8 +155,8 @@ a == b | returns True if they are equal otherwise it gonna return False
 a != b | returns True if they are equal
 a <= b | return True if a is smaller or equal to b
 a >= b | return True if a is bigger or equal to b
-a < b | a <= b | return True if a is strictly smaller to b
-a > b | a <= b | return True if a is strictly bigger to b
+a < b | return True if a is strictly smaller to b
+a > b | return True if a is strictly bigger to b
 ```
 that's it, let's continue explaining dicts, as we were saying, let's see more changes:
 in python you can do `{"am I a psycho?": True}` while in json you have to do `{"am I a psycho?": true}`...
