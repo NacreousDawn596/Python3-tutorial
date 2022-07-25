@@ -5,7 +5,7 @@
 # Summary:
 <ul>
   <p>I won't waste your time explaining what's and why python lol, you're welcome</p>
-  <li><a href="https://github.com/NacreousDawn596/Python3-tutorial/blob/main/wiki/data-types.md#welcome-again-to-the-python-tutorial-we-gonna-see-what-are-the-available-types-of-datas-in-python">Data Types</a></li>
+  <li><a href="https://github.com/NacreousDawn596/Python3-tutorial/blob/main/wiki/$Data-types.md#welcome-again-to-the-python-tutorial-we-gonna-see-what-are-the-available-types-of-datas-in-python">Data Types</a></li>
   <ul>
     <li><a href="https://github.com/NacreousDawn596/Python3-tutorial/blob/main/wiki/$Data-types.md#strings">Strings</a></li>
     <li><a href="https://github.com/NacreousDawn596/Python3-tutorial/blob/main/wiki/$Data-types.md#integers">Integers</a></li>
