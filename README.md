@@ -30,4 +30,11 @@
      <li><a href="https://github.com/NacreousDawn596/Python3-tutorial/blob/main/wiki/basics.md#errors-handling">Error Handling</a></li>
      <li><a href="https://github.com/NacreousDawn596/Python3-tutorial/blob/main/wiki/basics.md#classes">Classes</a></li>
   </ul>
+  <br/>
+  <li><a href="https://github.com/NacreousDawn596/Python3-tutorial/blob/main/wiki/built-in%20python%20librairies.md#welcome-again-to-the-python-tutorial-we-gonna-see-what-are-the-available-built-in-librairies-in-python">Some Built-in Python Libraries</a></li>
+  <ul> 
+    <li><a href="https://github.com/NacreousDawn596/Python3-tutorial/blob/main/wiki/built-in%20python%20librairies.md#random">random</a></li>
+    <li><a href="https://github.com/NacreousDawn596/Python3-tutorial/blob/main/wiki/built-in%20python%20librairies.md#json">Json</a></li>
+    <li><a href="https://github.com/NacreousDawn596/Python3-tutorial/blob/main/wiki/built-in%20python%20librairies.md#time">Time</a></li>
+  </ul>
 </ul>
