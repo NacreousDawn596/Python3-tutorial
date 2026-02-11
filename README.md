@@ -4,7 +4,7 @@
 
 ## Summary:
 
-* I won't waste your time explaining what's aand why python lol, you're welcome
+* I won't waste your time explaining what's and why python lol, you're welcome
 * [Data Types](wiki/$Data-types.md#welcome-again-to-the-python-tutorial-we-gonna-see-what-are-the-available-types-of-datas-in-python)
 *
   * [Strings](wiki/$Data-types.md#strings)
