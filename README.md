@@ -1,40 +1,39 @@
-<center>
-  <h1>NacreousDawn596's Python3 Tutorial</h1>
-</center>
+# README
 
-# Summary:
-<ul>
-  <p>I won't waste your time explaining what's and why python lol, you're welcome</p>
-  <li><a href="https://github.com/NacreousDawn596/Python3-tutorial/blob/main/wiki/$Data-types.md#welcome-again-to-the-python-tutorial-we-gonna-see-what-are-the-available-types-of-datas-in-python">Data Types</a></li>
-  <ul>
-    <li><a href="https://github.com/NacreousDawn596/Python3-tutorial/blob/main/wiki/$Data-types.md#strings">Strings</a></li>
-    <li><a href="https://github.com/NacreousDawn596/Python3-tutorial/blob/main/wiki/$Data-types.md#integers">Integers</a></li>
-    <li><a href="https://github.com/NacreousDawn596/Python3-tutorial/blob/main/wiki/$Data-types.md#floats">Floats</a></li>
-    <li><a href="https://github.com/NacreousDawn596/Python3-tutorial/blob/main/wiki/$Data-types.md#lists">Lists</a></li>
-    <li><a href="https://github.com/NacreousDawn596/Python3-tutorial/blob/main/wiki/$Data-types.md#dicts">Dicts</a></li>
-    <li><a href="https://github.com/NacreousDawn596/Python3-tutorial/blob/main/wiki/$Data-types.md#lets-see-how-to-convert-them">How to convert them</a></li>
-  </ul>
-  <br/>
-  <li><a href="https://github.com/NacreousDawn596/Python3-tutorial/blob/main/wiki/$built-in%20python%20functions.md#welcome-again-to-the-python-tutorial-we-gonna-see-what-are-the-available-built-in-functions-in-python">how to write text in the console with print() and how to get user's input with input()</a></li>
-  <ul>
-    <li><a href="https://github.com/NacreousDawn596/Python3-tutorial/blob/main/wiki/$built-in%20python%20functions.md#print">print()</a></li>
-    <li><a href="https://github.com/NacreousDawn596/Python3-tutorial/blob/main/wiki/$built-in%20python%20functions.md#input">input()</a></li>
-  </ul>
-  <br/>
-  <li><a href="https://github.com/NacreousDawn596/Python3-tutorial/blob/main/wiki/basics.md#welcome-again-to-the-python-tutorial-weve-saw-the-basics-now-in-the-previous-times-now-lets-learn-coding-step-by-step-to-make-our-first-program">basics of python</a></li>
-  <ul>
-     <li><a href="https://github.com/NacreousDawn596/Python3-tutorial/blob/main/wiki/basics.md#while-loops">While Loops</a></li>
-     <li><a href="https://github.com/NacreousDawn596/Python3-tutorial/blob/main/wiki/basics.md#conditions">Conditions</a></li>
-     <li><a href="https://github.com/NacreousDawn596/Python3-tutorial/blob/main/wiki/basics.md#for-loops">For Loops</a></li>
-     <li><a href="https://github.com/NacreousDawn596/Python3-tutorial/blob/main/wiki/basics.md#functions">Functions</a></li>
-     <li><a href="https://github.com/NacreousDawn596/Python3-tutorial/blob/main/wiki/basics.md#errors-handling">Error Handling</a></li>
-     <li><a href="https://github.com/NacreousDawn596/Python3-tutorial/blob/main/wiki/basics.md#classes">Classes</a></li>
-  </ul>
-  <br/>
-  <li><a href="https://github.com/NacreousDawn596/Python3-tutorial/blob/main/wiki/built-in%20python%20librairies.md#welcome-again-to-the-python-tutorial-we-gonna-see-what-are-the-available-built-in-librairies-in-python">Some Built-in Python Libraries</a></li>
-  <ul> 
-    <li><a href="https://github.com/NacreousDawn596/Python3-tutorial/blob/main/wiki/built-in%20python%20librairies.md#random">random</a></li>
-    <li><a href="https://github.com/NacreousDawn596/Python3-tutorial/blob/main/wiki/built-in%20python%20librairies.md#json">Json</a></li>
-    <li><a href="https://github.com/NacreousDawn596/Python3-tutorial/blob/main/wiki/built-in%20python%20librairies.md#time">Time</a></li>
-  </ul>
-</ul>
+## &#x20;NacreousDawn596's Python3 Tutorial
+
+## Summary:
+
+* I won't waste your time explaining what's \_(by Aferiad Kamal)\_and why python lol, you're welcome
+* [Data Types](wiki/$Data-types.md#welcome-again-to-the-python-tutorial-we-gonna-see-what-are-the-available-types-of-datas-in-python)
+*
+  * [Strings](wiki/$Data-types.md#strings)
+  * [Integers](wiki/$Data-types.md#integers)
+  * [Floats](wiki/$Data-types.md#floats)
+  * [Lists](wiki/$Data-types.md#lists)
+  * [Dicts](wiki/$Data-types.md#dicts)
+  * [How to convert them](wiki/$Data-types.md#lets-see-how-to-convert-them)
+* <br>
+* [how to write text in the console with print() and how to get user's input with input()](<wiki/$built-in python functions.md#welcome-again-to-the-python-tutorial-we-gonna-see-what-are-the-available-built-in-functions-in-python>)
+*
+  * [print()](<wiki/$built-in python functions.md#print>)
+  * [input()](<wiki/$built-in python functions.md#input>)
+* <br>
+* [basics of python](wiki/basics.md#welcome-again-to-the-python-tutorial-weve-saw-the-basics-now-in-the-previous-times-now-lets-learn-coding-step-by-step-to-make-our-first-program)
+*
+  * [While Loops](wiki/basics.md#while-loops)
+  * [Conditions](wiki/basics.md#conditions)
+  * [For Loops](wiki/basics.md#for-loops)
+  * [Functions](wiki/basics.md#functions)
+  * [Error Handling](wiki/basics.md#errors-handling)
+  * [Classes](wiki/basics.md#classes)
+* <br>
+* [Some Built-in Python Libraries](<wiki/built-in python librairies.md#welcome-again-to-the-python-tutorial-we-gonna-see-what-are-the-available-built-in-librairies-in-python>)
+*
+  * [random](<wiki/built-in python librairies.md#random>)
+  * [Json](<wiki/built-in python librairies.md#json>)
+  * [Time](<wiki/built-in python librairies.md#time>)
+
+
+
+_(by Aferiad Kamal)_&#x20;
